@@ -1,0 +1,37 @@
+AstraMind Architecture
+System Overview:
+AstraMind is built as a modular AI platform.
+Core Layers:
+1. Frontend LayerResponsible for:
+- Chat interface
+- User accounts
+- Dashboard
+- User experience
+2. Backend LayerResponsible for:
+- Authentication
+- Database communication
+- Security
+- APIs
+3. Agent LayerThe AI control center:
+- Understand user requests
+- Create plans
+- Choose tools
+- Execute tasks
+- Validate results
+4. Tools LayerExpandable capabilities:
+- Web search
+- Image generation
+- Video processing
+- Voice
+- Coding
+- Translation
+5. Memory LayerStores approved information:
+- Preferences
+- Projects
+- Context6. 
+6.Models LayerHandles AI models:
+- Qwen- Llama- Mistral- Other providers
+Development Direction:
+Start simple:AI chat + tools + memory
+Expand:Content creationMedia generationAutomationDeveloper platform
+Goal:Create a scalable open source AI operating system.
