@@ -1,0 +1,54 @@
+AstraMind
+Open Source AI Operating SystemOverview:
+AstraMind is an open source AI platform designed to provide an intelligent assistant experiencewith expandable capabilities.
+Mission:Create a reliable, transparent, and accessible AI system that developers and users can improvetogether.Main Capabilities:
+- AI conversations
+- Content creation
+- Coding assistance
+- Multilingual support
+- Image and media workflows
+- Extensible tools 
+systemArchitecture:
+Frontend:
+The user interface for interaction, accounts, and dashboards.
+Backend:
+The system layer responsible for users, data, security, and services.
+Agent Core:
+The AI decision engine that understands tasks, plans actions, and selects tools.
+Tools:
+Expandable abilities such as search, voice, translation, coding, and creative tools.
+Memory:
+A system for managing approved user preferences and project information.
+Models:
+Support for different AI models and providers.
+Open Source Principles:
+- Transparency
+- Privacy protection
+- Community contribution
+- Reliable AI behavior
+Project:
+AstraMind
+Open Source AI Operating System
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
