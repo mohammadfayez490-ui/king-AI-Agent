@@ -1,0 +1,17 @@
+{
+  "project": "AstraMind",
+  "providers": [
+    "local",
+    "external"
+  ],
+  "models": [
+    "Qwen",
+    "Llama",
+    "Mistral"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "Turkish"
+  ]
+}
