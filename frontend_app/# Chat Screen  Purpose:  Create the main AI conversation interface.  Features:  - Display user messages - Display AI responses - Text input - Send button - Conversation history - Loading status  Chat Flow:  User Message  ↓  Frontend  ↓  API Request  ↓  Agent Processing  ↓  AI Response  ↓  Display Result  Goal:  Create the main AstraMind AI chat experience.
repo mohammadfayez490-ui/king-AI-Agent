@@ -1,0 +1,42 @@
+# Chat Screen
+
+Purpose:
+
+Create the main AI conversation interface.
+
+Features:
+
+- Display user messages
+- Display AI responses
+- Text input
+- Send button
+- Conversation history
+- Loading status
+
+Chat Flow:
+
+User Message
+
+↓
+
+Frontend
+
+↓
+
+API Request
+
+↓
+
+Agent Processing
+
+↓
+
+AI Response
+
+↓
+
+Display Result
+
+Goal:
+
+Create the main AstraMind AI chat experience.
